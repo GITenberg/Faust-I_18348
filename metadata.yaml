@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18348#Faust-I
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2006-05-08'
 gutenberg_type: Text
