@@ -1,0 +1,42 @@
+_repo: Faust-I_18348
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Forsman, Kaarlo
+    alias: Koskimies, Kaarlo
+    birthdate: 1851
+    deathdate: 1918
+    gutenberg_agent_id: '7957'
+    url: http://www.gutenberg.org/2009/agents/7957
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18348'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Faust, -approximately 1540 -- Drama'
+- !lcsh 'German poetry'
+- !lcsh 'Magicians -- Drama'
+- !lcsh 'Legends -- Germany -- Drama'
+title: Faust I
+url: http://www.gutenberg.org/ebooks/18348
